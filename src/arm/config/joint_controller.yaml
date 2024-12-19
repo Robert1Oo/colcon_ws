@@ -1,0 +1,44 @@
+---
+controller_manager:
+  ros__parameters:
+    update_rate: 1000 # Hz
+    arm_group_controller:
+      type: joint_trajectory_controller/JointTrajectoryController
+    hand_group_controller:
+      type: joint_trajectory_controller/JointTrajectoryController
+    joint_state_broadcaster:
+      type: joint_state_broadcaster/JointStateBroadcaster
+      
+arm_group_controller:
+  ros__parameters:
+    joints:
+      - joint1
+      - joint2
+      - joint3
+      - joint4
+      - joint5
+    interface_name: position
+    command_interfaces:
+          - position
+    state_interfaces:
+          - position
+          - velocity
+    gains: # Optional, but recommended for better control
+      joint1: {p: 100.0, d: 0.1}
+      joint2: {p: 100.0, d: 0.1}
+      joint3: {p: 100.0, d: 0.1}
+      joint4: {p: 100.0, d: 0.1}
+      joint5: {p: 100.0, d: 0.1}
+hand_group_controller:
+  ros__parameters:
+    joints:
+       - joint6
+    interface_name: position
+    command_interfaces:
+      - position
+    state_interfaces:
+      - position
+      - velocity
+    gains: # Optional, but recommended for better control
+      joint6: {p: 100.0, d: 0.1}
+

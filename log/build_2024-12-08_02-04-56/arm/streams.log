@@ -1,0 +1,58 @@
+[0.016s] Invoking command in '/home/rob/colcon_ws/build/arm': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/rob/colcon_ws/src/arm -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/rob/colcon_ws/install/arm
+[0.132s] -- The C compiler identification is GNU 11.4.0
+[0.228s] -- The CXX compiler identification is GNU 11.4.0
+[0.240s] -- Detecting C compiler ABI info
+[0.366s] -- Detecting C compiler ABI info - done
+[0.377s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.377s] -- Detecting C compile features
+[0.378s] -- Detecting C compile features - done
+[0.382s] -- Detecting CXX compiler ABI info
+[0.530s] -- Detecting CXX compiler ABI info - done
+[0.542s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.542s] -- Detecting CXX compile features
+[0.543s] -- Detecting CXX compile features - done
+[0.546s] -- Found ament_cmake: 1.3.11 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.778s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[0.865s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[0.911s] -- Found ament_lint_auto: 0.12.11 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[1.040s] -- Added test 'flake8' to check Python code syntax and style conventions
+[1.042s] -- Added test 'lint_cmake' to check CMake code style
+[1.042s] -- Added test 'pep257' to check Python code against some of the docstring style conventions in PEP 257
+[1.045s] -- Added test 'xmllint' to check XML markup files
+[1.047s] -- Configuring done
+[1.052s] -- Generating done
+[1.055s] -- Build files have been written to: /home/rob/colcon_ws/build/arm
+[1.063s] Invoked command in '/home/rob/colcon_ws/build/arm' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/rob/colcon_ws/src/arm -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/rob/colcon_ws/install/arm
+[1.067s] Invoking command in '/home/rob/colcon_ws/build/arm': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/rob/colcon_ws/build/arm -- -j12 -l12
+[1.146s] Invoked command in '/home/rob/colcon_ws/build/arm' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/rob/colcon_ws/build/arm -- -j12 -l12
+[1.164s] Invoking command in '/home/rob/colcon_ws/build/arm': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/rob/colcon_ws/build/arm
+[1.174s] -- Install configuration: ""
+[1.175s] -- Execute custom install script
+[1.175s] -- Symlinking: /home/rob/colcon_ws/install/arm/share/arm//launch/gazebo.launch.py
+[1.191s] -- Symlinking: /home/rob/colcon_ws/install/arm/share/arm//urdf/arm.csv
+[1.212s] -- Symlinking: /home/rob/colcon_ws/install/arm/share/arm//urdf/arm.urdf
+[1.227s] -- Symlinking: /home/rob/colcon_ws/install/arm/share/arm//config/joint_controller.yaml
+[1.247s] -- Symlinking: /home/rob/colcon_ws/install/arm/share/arm//config/joint_names_arm.yaml
+[1.262s] -- Symlinking: /home/rob/colcon_ws/install/arm/share/arm//meshes/base_link.STL
+[1.280s] -- Symlinking: /home/rob/colcon_ws/install/arm/share/arm//meshes/link1.STL
+[1.295s] -- Symlinking: /home/rob/colcon_ws/install/arm/share/arm//meshes/link2.STL
+[1.310s] -- Symlinking: /home/rob/colcon_ws/install/arm/share/arm//meshes/link3.STL
+[1.327s] -- Symlinking: /home/rob/colcon_ws/install/arm/share/arm//meshes/link4.STL
+[1.348s] -- Symlinking: /home/rob/colcon_ws/install/arm/share/arm//meshes/link5.STL
+[1.368s] -- Symlinking: /home/rob/colcon_ws/install/arm/share/arm//meshes/link6.STL
+[1.391s] -- Symlinking: /home/rob/colcon_ws/install/arm/share/ament_index/resource_index/package_run_dependencies/arm
+[1.413s] -- Symlinking: /home/rob/colcon_ws/install/arm/share/ament_index/resource_index/parent_prefix_path/arm
+[1.434s] -- Symlinking: /home/rob/colcon_ws/install/arm/share/arm/environment/ament_prefix_path.sh
+[1.450s] -- Symlinking: /home/rob/colcon_ws/install/arm/share/arm/environment/ament_prefix_path.dsv
+[1.465s] -- Symlinking: /home/rob/colcon_ws/install/arm/share/arm/environment/path.sh
+[1.480s] -- Symlinking: /home/rob/colcon_ws/install/arm/share/arm/environment/path.dsv
+[1.502s] -- Symlinking: /home/rob/colcon_ws/install/arm/share/arm/local_setup.bash
+[1.516s] -- Symlinking: /home/rob/colcon_ws/install/arm/share/arm/local_setup.sh
+[1.534s] -- Symlinking: /home/rob/colcon_ws/install/arm/share/arm/local_setup.zsh
+[1.554s] -- Symlinking: /home/rob/colcon_ws/install/arm/share/arm/local_setup.dsv
+[1.570s] -- Symlinking: /home/rob/colcon_ws/install/arm/share/arm/package.dsv
+[1.585s] -- Symlinking: /home/rob/colcon_ws/install/arm/share/ament_index/resource_index/packages/arm
+[1.600s] -- Symlinking: /home/rob/colcon_ws/install/arm/share/arm/cmake/armConfig.cmake
+[1.615s] -- Symlinking: /home/rob/colcon_ws/install/arm/share/arm/cmake/armConfig-version.cmake
+[1.631s] -- Symlinking: /home/rob/colcon_ws/install/arm/share/arm/package.xml
+[1.656s] Invoked command in '/home/rob/colcon_ws/build/arm' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/rob/colcon_ws/build/arm

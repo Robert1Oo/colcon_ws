@@ -1,0 +1,41 @@
+[0.018s] Invoking command in '/home/rob/colcon_ws/build/arm2': CMAKE_PREFIX_PATH=/home/rob/colcon_ws/install/arm:/home/rob/colcon_ws/install/arm2:/opt/ros/humble /usr/bin/cmake --build /home/rob/colcon_ws/build/arm2 -- -j12 -l12
+[0.101s] Invoked command in '/home/rob/colcon_ws/build/arm2' returned '0': CMAKE_PREFIX_PATH=/home/rob/colcon_ws/install/arm:/home/rob/colcon_ws/install/arm2:/opt/ros/humble /usr/bin/cmake --build /home/rob/colcon_ws/build/arm2 -- -j12 -l12
+[0.105s] Invoking command in '/home/rob/colcon_ws/build/arm2': CMAKE_PREFIX_PATH=/home/rob/colcon_ws/install/arm:/home/rob/colcon_ws/install/arm2:/opt/ros/humble /usr/bin/cmake --install /home/rob/colcon_ws/build/arm2
+[0.119s] -- Install configuration: ""
+[0.119s] -- Execute custom install script
+[0.119s] -- Up-to-date symlink: /home/rob/colcon_ws/install/arm2/share/ament_index/resource_index/package_run_dependencies/arm2
+[0.120s] -- Up-to-date symlink: /home/rob/colcon_ws/install/arm2/share/ament_index/resource_index/parent_prefix_path/arm2
+[0.120s] -- Up-to-date symlink: /home/rob/colcon_ws/install/arm2/share/arm2/environment/ament_prefix_path.sh
+[0.120s] -- Up-to-date symlink: /home/rob/colcon_ws/install/arm2/share/arm2/environment/ament_prefix_path.dsv
+[0.120s] -- Up-to-date symlink: /home/rob/colcon_ws/install/arm2/share/arm2/environment/path.sh
+[0.121s] -- Up-to-date symlink: /home/rob/colcon_ws/install/arm2/share/arm2/environment/path.dsv
+[0.121s] -- Up-to-date symlink: /home/rob/colcon_ws/install/arm2/share/arm2/local_setup.bash
+[0.121s] -- Up-to-date symlink: /home/rob/colcon_ws/install/arm2/share/arm2/local_setup.sh
+[0.121s] -- Up-to-date symlink: /home/rob/colcon_ws/install/arm2/share/arm2/local_setup.zsh
+[0.122s] -- Up-to-date symlink: /home/rob/colcon_ws/install/arm2/share/arm2/local_setup.dsv
+[0.122s] -- Symlinking: /home/rob/colcon_ws/install/arm2/share/arm2/package.dsv
+[0.146s] -- Up-to-date symlink: /home/rob/colcon_ws/install/arm2/share/ament_index/resource_index/packages/arm2
+[0.147s] -- Up-to-date symlink: /home/rob/colcon_ws/install/arm2/share/arm2/cmake/arm2Config.cmake
+[0.147s] -- Up-to-date symlink: /home/rob/colcon_ws/install/arm2/share/arm2/cmake/arm2Config-version.cmake
+[0.147s] -- Up-to-date symlink: /home/rob/colcon_ws/install/arm2/share/arm2/package.xml
+[0.148s] -- Up-to-date symlink: /home/rob/colcon_ws/install/arm2/share/arm2/launch/demo.launch.py
+[0.148s] -- Symlinking: /home/rob/colcon_ws/install/arm2/share/arm2/launch/demo_gazebo.launch.py
+[0.168s] -- Up-to-date symlink: /home/rob/colcon_ws/install/arm2/share/arm2/launch/move_group.launch.py
+[0.168s] -- Up-to-date symlink: /home/rob/colcon_ws/install/arm2/share/arm2/launch/moveit_rviz.launch.py
+[0.168s] -- Up-to-date symlink: /home/rob/colcon_ws/install/arm2/share/arm2/launch/rsp.launch.py
+[0.169s] -- Up-to-date symlink: /home/rob/colcon_ws/install/arm2/share/arm2/launch/setup_assistant.launch.py
+[0.169s] -- Up-to-date symlink: /home/rob/colcon_ws/install/arm2/share/arm2/launch/spawn_controllers.launch.py
+[0.169s] -- Up-to-date symlink: /home/rob/colcon_ws/install/arm2/share/arm2/launch/static_virtual_joint_tfs.launch.py
+[0.169s] -- Up-to-date symlink: /home/rob/colcon_ws/install/arm2/share/arm2/launch/warehouse_db.launch.py
+[0.170s] -- Up-to-date symlink: /home/rob/colcon_ws/install/arm2/share/arm2/config/arm.ros2_control.xacro
+[0.170s] -- Up-to-date symlink: /home/rob/colcon_ws/install/arm2/share/arm2/config/arm.srdf
+[0.170s] -- Up-to-date symlink: /home/rob/colcon_ws/install/arm2/share/arm2/config/arm.urdf.xacro
+[0.171s] -- Up-to-date symlink: /home/rob/colcon_ws/install/arm2/share/arm2/config/initial_positions.yaml
+[0.171s] -- Up-to-date symlink: /home/rob/colcon_ws/install/arm2/share/arm2/config/joint_limits.yaml
+[0.171s] -- Up-to-date symlink: /home/rob/colcon_ws/install/arm2/share/arm2/config/kinematics.yaml
+[0.171s] -- Up-to-date symlink: /home/rob/colcon_ws/install/arm2/share/arm2/config/moveit.rviz
+[0.171s] -- Up-to-date symlink: /home/rob/colcon_ws/install/arm2/share/arm2/config/moveit_controllers.yaml
+[0.171s] -- Up-to-date symlink: /home/rob/colcon_ws/install/arm2/share/arm2/config/pilz_cartesian_limits.yaml
+[0.171s] -- Up-to-date symlink: /home/rob/colcon_ws/install/arm2/share/arm2/config/ros2_controllers.yaml
+[0.172s] -- Up-to-date symlink: /home/rob/colcon_ws/install/arm2/share/arm2/.setup_assistant
+[0.177s] Invoked command in '/home/rob/colcon_ws/build/arm2' returned '0': CMAKE_PREFIX_PATH=/home/rob/colcon_ws/install/arm:/home/rob/colcon_ws/install/arm2:/opt/ros/humble /usr/bin/cmake --install /home/rob/colcon_ws/build/arm2
