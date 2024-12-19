@@ -1,0 +1,2 @@
+Invoking command in '/home/rob/colcon_ws/build/arm': /usr/bin/cmake /home/rob/colcon_ws/src/arm -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/rob/colcon_ws/install/arm
+Invoked command in '/home/rob/colcon_ws/build/arm' returned '1': /usr/bin/cmake /home/rob/colcon_ws/src/arm -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/rob/colcon_ws/install/arm
