@@ -1,0 +1,33 @@
+[0.020s] Invoking command in '/home/rob/colcon_ws/build/arm': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/rob/colcon_ws/build/arm -- -j12 -l12
+[0.101s] Invoked command in '/home/rob/colcon_ws/build/arm' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/rob/colcon_ws/build/arm -- -j12 -l12
+[0.126s] Invoking command in '/home/rob/colcon_ws/build/arm': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/rob/colcon_ws/build/arm
+[0.144s] -- Install configuration: ""
+[0.144s] -- Execute custom install script
+[0.145s] -- Up-to-date symlink: /home/rob/colcon_ws/install/arm/share/arm//launch/gazebo.launch.py
+[0.145s] -- Up-to-date symlink: /home/rob/colcon_ws/install/arm/share/arm//urdf/arm.csv
+[0.146s] -- Up-to-date symlink: /home/rob/colcon_ws/install/arm/share/arm//urdf/arm.urdf
+[0.146s] -- Up-to-date symlink: /home/rob/colcon_ws/install/arm/share/arm//config/joint_controller.yaml
+[0.146s] -- Up-to-date symlink: /home/rob/colcon_ws/install/arm/share/arm//config/joint_names_arm.yaml
+[0.146s] -- Up-to-date symlink: /home/rob/colcon_ws/install/arm/share/arm//meshes/base_link.STL
+[0.147s] -- Up-to-date symlink: /home/rob/colcon_ws/install/arm/share/arm//meshes/link1.STL
+[0.147s] -- Up-to-date symlink: /home/rob/colcon_ws/install/arm/share/arm//meshes/link2.STL
+[0.147s] -- Up-to-date symlink: /home/rob/colcon_ws/install/arm/share/arm//meshes/link3.STL
+[0.147s] -- Up-to-date symlink: /home/rob/colcon_ws/install/arm/share/arm//meshes/link4.STL
+[0.147s] -- Up-to-date symlink: /home/rob/colcon_ws/install/arm/share/arm//meshes/link5.STL
+[0.148s] -- Up-to-date symlink: /home/rob/colcon_ws/install/arm/share/arm//meshes/link6.STL
+[0.148s] -- Up-to-date symlink: /home/rob/colcon_ws/install/arm/share/ament_index/resource_index/package_run_dependencies/arm
+[0.148s] -- Up-to-date symlink: /home/rob/colcon_ws/install/arm/share/ament_index/resource_index/parent_prefix_path/arm
+[0.148s] -- Up-to-date symlink: /home/rob/colcon_ws/install/arm/share/arm/environment/ament_prefix_path.sh
+[0.149s] -- Up-to-date symlink: /home/rob/colcon_ws/install/arm/share/arm/environment/ament_prefix_path.dsv
+[0.149s] -- Up-to-date symlink: /home/rob/colcon_ws/install/arm/share/arm/environment/path.sh
+[0.149s] -- Up-to-date symlink: /home/rob/colcon_ws/install/arm/share/arm/environment/path.dsv
+[0.149s] -- Up-to-date symlink: /home/rob/colcon_ws/install/arm/share/arm/local_setup.bash
+[0.150s] -- Up-to-date symlink: /home/rob/colcon_ws/install/arm/share/arm/local_setup.sh
+[0.150s] -- Up-to-date symlink: /home/rob/colcon_ws/install/arm/share/arm/local_setup.zsh
+[0.150s] -- Up-to-date symlink: /home/rob/colcon_ws/install/arm/share/arm/local_setup.dsv
+[0.150s] -- Symlinking: /home/rob/colcon_ws/install/arm/share/arm/package.dsv
+[0.172s] -- Up-to-date symlink: /home/rob/colcon_ws/install/arm/share/ament_index/resource_index/packages/arm
+[0.172s] -- Up-to-date symlink: /home/rob/colcon_ws/install/arm/share/arm/cmake/armConfig.cmake
+[0.172s] -- Up-to-date symlink: /home/rob/colcon_ws/install/arm/share/arm/cmake/armConfig-version.cmake
+[0.173s] -- Up-to-date symlink: /home/rob/colcon_ws/install/arm/share/arm/package.xml
+[0.177s] Invoked command in '/home/rob/colcon_ws/build/arm' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/rob/colcon_ws/build/arm
